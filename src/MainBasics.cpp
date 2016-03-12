@@ -28,8 +28,8 @@ int main(){
 	
 	//Test Count file
 	
-	int countTemp = count(5, 20);
-	printf("%d\n", countTemp);
+	int countTemp = count(3, 15);
+	printf("count %d\n", countTemp);
 
 
 	//Test Swap
